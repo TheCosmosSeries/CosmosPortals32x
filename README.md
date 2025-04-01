@@ -1,5 +1,7 @@
 ![Version](https://img.shields.io/badge/VERSION-1.21.1-3eff8e?style=for-the-badge) ![Loader](https://img.shields.io/badge/Loader-NeoForge-ffa835?style=for-the-badge) ![Repo Size](https://img.shields.io/github/repo-size/TheCosmosSeries/CosmosPortals32x?label=REPO%20SIZE&style=for-the-badge) ![Open Issues](https://img.shields.io/github/issues/TheCosmosSeries/CosmosPortals32x?style=for-the-badge) ![Closed Issues](https://img.shields.io/github/issues-closed/TheCosmosSeries/CosmosPortals32x?color=green&style=for-the-badge)
 
+![cosmos-portals-32x-logo](https://github.com/user-attachments/assets/86904895-ccfd-481f-8d9d-96991f6c5568)
+
 # Cosmos Portals 32x Resource Pack
 
 ### Introduction
